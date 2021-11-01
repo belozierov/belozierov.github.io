@@ -1,7 +1,9 @@
 {
     "webcredentials": {
         "apps": [
-            "dk.coop.dinbutik.debug"
+            "JXN7F37435.dk.coop.dinbutik.debug",
+            "JXN7F37435.dk.coop.dinbutik.debug.QA",
+            "JXN7F37435.dk.coop.dinbutik.debug.Dev"
         ]
     }
 }
