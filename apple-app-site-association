@@ -5,5 +5,20 @@
             "JXN7F37435.dk.coop.dinbutik.debug.QA",
             "JXN7F37435.dk.coop.dinbutik.debug.Dev"
         ]
+    },
+    "applinks": {
+        "apps": [
+            "JXN7F37435.dk.coop.dinbutik.debug",
+            "JXN7F37435.dk.coop.dinbutik.debug.QA",
+            "JXN7F37435.dk.coop.dinbutik.debug.Dev"
+        ],
+        "details": [
+            {
+                "appID": "JXN7F37435.dk.coop.dinbutik.debug",
+                "paths": [
+                    "*"
+                ]
+            }
+        ]
     }
 }
