@@ -1,20 +1,20 @@
 {
     "webcredentials": {
         "apps": [
-            "JXN7F37435.dk.coop.dinbutik.debug",
-            "JXN7F37435.dk.coop.dinbutik.debug.QA",
-            "JXN7F37435.dk.coop.dinbutik.debug.Dev"
+            "WH93E723C5.dk.coop.dinbutik.debug",
+            "WH93E723C5.dk.coop.dinbutik.debug.QA",
+            "WH93E723C5.dk.coop.dinbutik.debug.Dev"
         ]
     },
     "applinks": {
         "apps": [
-            "JXN7F37435.dk.coop.dinbutik.debug",
-            "JXN7F37435.dk.coop.dinbutik.debug.QA",
-            "JXN7F37435.dk.coop.dinbutik.debug.Dev"
+            "WH93E723C5.dk.coop.dinbutik.debug",
+            "WH93E723C5.dk.coop.dinbutik.debug.QA",
+            "WH93E723C5.dk.coop.dinbutik.debug.Dev"
         ],
         "details": [
             {
-                "appID": "JXN7F37435.dk.coop.dinbutik.debug",
+                "appID": "WH93E723C5.dk.coop.dinbutik.debug",
                 "paths": [
                     "*"
                 ]
